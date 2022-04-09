@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e7da71e.css",
+    "main.js": "/static/js/main.107696fa.js",
+    "static/js/415.e7331539.chunk.js": "/static/js/415.e7331539.chunk.js",
+    "static/js/787.92d8e505.chunk.js": "/static/js/787.92d8e505.chunk.js",
+    "static/media/enchat.png": "/static/media/enchat.a579df17aea52bdffa14.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/weatherapp.png": "/static/media/weatherapp.b24cb67caf9501c50577.png",
+    "static/media/chattolog.png": "/static/media/chattolog.34cd3bbf55ed5d394afb.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/mongodb.png": "/static/media/mongodb.f99ed8774fbb311e6add.png",
+    "static/media/portscan.png": "/static/media/portscan.df266c0692bb8937a3bb.png",
+    "static/media/logo.png": "/static/media/logo.5aab11be7d53e3064301.png",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.2e7da71e.css.map": "/static/css/main.2e7da71e.css.map",
+    "main.107696fa.js.map": "/static/js/main.107696fa.js.map",
+    "415.e7331539.chunk.js.map": "/static/js/415.e7331539.chunk.js.map",
+    "787.92d8e505.chunk.js.map": "/static/js/787.92d8e505.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e7da71e.css",
+    "static/js/main.107696fa.js"
+  ]
+}
